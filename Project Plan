@@ -1,0 +1,101 @@
+The Clean Slate @ The eLife Innovation Sprint 2020
+(https://sprint.elifesciences.org) 
+
+Project Leads: Renuka Kudva (PhD, Scientist), Nafisa Jadavji (PhD, Neuroscientist), and Gabriela Gaona (Software Engineer). 
+
+What is the project about?  
+Workplace bullying and harassment strongly contribute to attrition and the mental health crisis in academia, and while some funding agencies have recently begun to acknowledge its existence and take action, there is so-far very little support provided for victims. 
+
+Moreover, the stigma associated with reporting bullying among adults, the fear of retribution, and the influence that calling out bullying or harassment may have on one’s career, promotes a culture of silence. This is damaging, not only to those who continue to suffer under such a system, but also because bullying or harassing behaviours are perpetuated and normalised. 
+
+We would like this to change, and this is what motivates us to build “The Clean Slate”! It’s time to start having open conversations (💬) about bullying in academia, and take the first step towards systemic change in the long term! 👐
+
+Our Vision
+“The Clean Slate” should be a safe space for individuals to anonymously (🔒) share their stories, seek support from their peers and have to access resources for support in their countries of residence. 
+As the name “The Clean Slate” suggests, sharing stories and having conversations about workplace bullying and the feelings of isolation it invokes is the first step towards moving forward (🌱), getting support…. And wiping the slate clean. 
+“The Clean Slate” is envisioned to be a mutual support-driven platform for early career researchers by early career researchers. 🤝🤝👩🏽‍🔬👩‍🔬🧑🏿‍🔬👩🏿‍🔬🏳️‍🌈🧑‍🔬👨🏽‍🔬🤝🤝
+Our hope is that this project will ultimately allow funding agencies and heads of academic institutions and encourage them to implement a change in their policies. ⚖️
+
+Why join us?
+Why not join us?
+Our project is built around the premise of inclusion, regardless of who you are, where you come from, what you look like, what your beliefs are and what you can contribute towards our goal. 
+We believe that stories need to be told and listened to and that no contribution or idea is small or insignificant. We would like to get started on building a support portal from ground up and would appreciate help from anyone who shares our interest in working together as a community to provide support and strength to those that are struggling in silence. 
+We will continuously strive to provide an open and supportive team effort where members feel valued, and if we stumble, let us know so that we can learn from each other, pick each other up, and move forward together. 
+
+
+The Project
+The Clean Slate
+What do we envision it should have? IDEAS WELCOME! 💡🤔
+An introduction page: Ideas for what it might consist of:
+A Trigger Warning (⚠️) and code of conduct (🛑 🚫)
+What constitutes bullying behaviour in an academic workplace? Exhaustive examples. 
+Am I being bullied? An interactive decision tree that guides users to resources and the slate. 
+
+The Slate
+A space to post stories. 
+All posts (stories and responses) should ensure anonymity but should be moderated. 
+Posts should not be visible longer than a week?
+
+Resources: 
+Regular updates of links to locally available resources: Should consist of resources at universities (🎓), and health and support agencies (🏥 🤝) across the world (🌐).  
+Resources available from funding agencies. Contact details of ombudspeople 📞. 
+
+
+Could you help us  at the Sprint (and after)? IDEAS WELCOME!!! 💡🤔
+Web developers and designers.
+UX and UI designers. 
+Documentation volunteers who would be willing to help us curate support resources. LONG TERM 🗓️🗓️
+Researchers to help build decision trees. 
+Communicators to help us write a code of conduct, examples of bullying.
+Engaged members of the community who can volunteer to serve as moderators. LONG TERM 🗓️🗓️
+Brainstormers! 
+Anyone who is interested….. 
+
+
+
+👇👇Tasks to help us get started: 🎬 👇👇
+
+Communications/Content Team: ⌨️ ✒️
+Help and ideas for writing and compiling short articles/graphics/decision trees on bullying. 
+(💡Help with building a decision tree: Am I being bullied? What do I do if I am being bullied?💡)
+Help and ideas with writing a Code of Conduct for an online portal on anti-bullying. 👁️‍🗨️
+(Note: The portal does not intend to serve as a resource to bully a bully  👺 . For example: Users should be discouraged from revealing the identity of their bullies.) 💡IDEAS WELCOME! 💡
+Gathering resources from institutions around the world. 🌐 (QUIET TIME TASK!!!!)💤
+Divide by continent. 
+
+User Experience😢--😔--😐--🙂--😊--🥰/Design Team 🍥: 
+Survey for user experience to understand what would be useful for a web resource to make it interactive and easy to use. 
+(💡We would like users to be able to access resources and seek support in the easiest possible way. We understand that reaching out can be distressing.💡) 
+Soothing colours and fonts.
+User-friendly design to access resources by continent. 
+
+Tech Team: ⚙️💻
+Setup a forum platform like https://www.discourse.org/ or similar. Open Source
+Github Project: https://github.com/discourse/discourse
+Run the platform in a server using the docker image (self hosted, aws, heroku)
+Setup de platform to allow anonymous users. 
+Html/Css adjustments. 
+Setup users/roles to allow moderators. 
+
+
+Reach us at both before and during the Sprint: 📟💬
+Slack Channel:acleanslate.slack.com 
+@Sprint: acleanslate.slack.com 
+	Renuka @Sessions 3 on Day 1 and 2. Also the Safety Officer for the session 🦺🆘
+	Nafisa @ session 5 on Day 1 ; @ session 4 on Day 3
+	Gaby @Sessions 3 on Day 1 and 2.
+Email: acleanslate.sprint2020@gmail.com
+Github: https://github.com/Academic-Anti-Bullying/the-Clean-Slate
+ 
+
+
+What are the challenges we envision facing?
+Ensuring anonymity of the people posting stories and adhering to GDPR (Europe).
+Keeping the resources up-to-date. 📚
+Soliciting volunteers to serve as moderators. They need to have access to support if they are triggered by the content. Their identities need to be protected. 
+Trolls. 👺
+Funding. 💰
+Visibility. 🔭
+
+ 
+
